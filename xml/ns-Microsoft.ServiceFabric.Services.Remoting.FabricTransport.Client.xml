@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Services.Remoting.FabricTransport.Client">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Services.Remoting.FabricTransport.Client namespace provides a class that supports communication between services.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

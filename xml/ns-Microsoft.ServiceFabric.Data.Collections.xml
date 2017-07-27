@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Data.Collections">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Data.Collections namespace provides classes and interfaces that support access to attributes of data collections.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

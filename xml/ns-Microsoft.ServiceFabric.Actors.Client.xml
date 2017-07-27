@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors.Client">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors.Client namespace provides classes and interfaces that support client-to-actor and actor-to-actor communication..</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

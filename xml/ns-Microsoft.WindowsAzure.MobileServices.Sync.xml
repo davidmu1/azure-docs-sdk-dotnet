@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.MobileServices.Sync">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.WindowsAzure.MobileServices.Sync namespace provides classes and interfaces that support access to attributes of sync operations.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

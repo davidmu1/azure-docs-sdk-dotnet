@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Mobile.Server.Config">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Mobile.Server.Config namespace provides classes and interfaces that enable you to access Mobile App configurations.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Documents.SystemFunctions">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Documents.SystemFunctions namespace provides classes for checking data types.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

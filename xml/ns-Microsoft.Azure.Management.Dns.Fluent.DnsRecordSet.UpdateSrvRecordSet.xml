@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateSrvRecordSet">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateSrvRecordSet namespace provides interfaces that enable you to update a SRV record set.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

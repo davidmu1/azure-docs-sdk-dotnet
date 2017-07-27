@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.BackupServices">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.BackupServices namespace provides classes and interfaces that enable you to create and use Backup Services resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

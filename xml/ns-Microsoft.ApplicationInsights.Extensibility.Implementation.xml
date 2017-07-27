@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ApplicationInsights.Extensibility.Implementation">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ApplicationInsights.Extensibility.Implementation namespace provides classes that enable you to manage the implementation of an Application Insights component.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

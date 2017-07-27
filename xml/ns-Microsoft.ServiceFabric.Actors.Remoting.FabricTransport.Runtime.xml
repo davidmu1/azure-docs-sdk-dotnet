@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors.Remoting.FabricTransport.Runtime">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors.Remoting.FabricTransport.Runtime namespace provides a class that uses fabric TCP transport to provide remoting of actor and service interfaces for actor service.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Core.HasSubnet.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core.HasSubnet.Definition namespace provides an interface that supports subnet creation.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

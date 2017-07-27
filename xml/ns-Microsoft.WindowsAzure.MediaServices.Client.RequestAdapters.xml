@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.MediaServices.Client.RequestAdapters">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.WindowsAzure.MediaServices.Client.RequestAdapters namespace provides classes and interfaces that support access to attributes of request adapters.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasPublicIPAddress.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasPublicIPAddress.Definition namespace provides interface that enable you to define the association of a new or existing public IP address to a resource.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

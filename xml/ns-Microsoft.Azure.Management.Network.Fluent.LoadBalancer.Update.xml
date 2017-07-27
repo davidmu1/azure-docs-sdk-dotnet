@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.LoadBalancer.Update">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancer.Update namespace provides interfaces that enable you to update a load balancer on a virtual network.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

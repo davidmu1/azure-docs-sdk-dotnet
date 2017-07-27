@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.KeyVault">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.KeyVault namespace provides classes that enable you to create and use a key vault.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

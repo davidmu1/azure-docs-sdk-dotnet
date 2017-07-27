@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.Storage.Auth">
   <Docs>
-    <summary>Authentication and credential classes used for encapsulating multiple forms of access.</summary>
+    <summary>The Microsoft.WindowsAzure.Storage.AuthAuthentication namespace provides a class that represents a set of credentials used to authenticate access to a Microsoft Azure storage account.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineCustomImage.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineCustomImage.Definition namespace provides interfaces that enable you to define a custom image for a virtual machine.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

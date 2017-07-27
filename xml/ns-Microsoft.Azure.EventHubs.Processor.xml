@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.EventHubs.Processor">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.EventHubs.Processor namespace provides classes and interfaces that enable you to use event processors.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

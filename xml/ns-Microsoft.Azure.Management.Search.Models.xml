@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Search.Models">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Search.Models namespace provides classes that enable you to access attributes of Azure Search service.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.KeyVault.WebKey">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.KeyVault.WebKey namespace provides classes that enable you to define and manage web keys for a key vault.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Preview.Client">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Preview.Client namespace provides a class that extends the Service Fabic client.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

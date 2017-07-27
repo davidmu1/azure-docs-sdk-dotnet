@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Search.Serialization">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Search.Serialization namespace provides classes that serialize JSON for Azure Search.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

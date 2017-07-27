@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayBackendHttpConfiguration.UpdateDefinition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayBackendHttpConfiguration.UpdateDefinition namespace provides interfaces that enable you to define the update of the HTTP configuration of an application gateway backend.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

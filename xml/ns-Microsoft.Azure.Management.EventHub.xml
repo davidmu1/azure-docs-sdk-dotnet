@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.EventHub">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.EventHub namespace provides classes that enable you to create and use an Event Hub.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Client.Common">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Devices.Client.Common namespace provides classes for serializing dictionary data.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

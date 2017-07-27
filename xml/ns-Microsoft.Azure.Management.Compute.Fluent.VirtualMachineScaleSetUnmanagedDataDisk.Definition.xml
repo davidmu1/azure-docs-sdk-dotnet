@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetUnmanagedDataDisk.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetUnmanagedDataDisk.Definition namespace provides interfaces that enable you to define unmanaged data disks for virtual machines in a scale set.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

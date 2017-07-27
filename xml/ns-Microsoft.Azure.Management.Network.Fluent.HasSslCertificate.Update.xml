@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasSslCertificate.Update">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasSslCertificate.Definition namespace provides interfaces that enable you to update the SSL certificate and password associated to a resource.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

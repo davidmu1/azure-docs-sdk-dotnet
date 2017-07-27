@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.ServiceBus.Primitives">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.ServiceBus.Primitives namespace provides classes that support access to Service Bus connections.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.IdentityModel.Clients.ActiveDirectory">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.IdentityModel.Clients.ActiveDirectory namespace provides classes and interfaces that support access to attributes of an Active Directory client.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

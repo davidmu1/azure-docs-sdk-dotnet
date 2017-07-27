@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceBus.Channels">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceBus.Channels namespace provides classes that support Service Bus channels.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

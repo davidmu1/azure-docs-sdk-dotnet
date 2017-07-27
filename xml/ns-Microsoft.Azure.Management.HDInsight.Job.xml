@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.HDInsight.Job">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.HDInsight.Job namespace provides classes and interfaces that enable you to create an HDInsight job.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

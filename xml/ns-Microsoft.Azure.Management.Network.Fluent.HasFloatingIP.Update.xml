@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasFloatingIP.Update">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasFloatingIP.Update namespace provides interfaces that enable you to update the status of floating IP support.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

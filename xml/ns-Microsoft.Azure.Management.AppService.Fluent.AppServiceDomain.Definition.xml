@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.AppServiceDomain.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.AppServiceDomain.Definition namespace provides interfaces that enable you to define a domain.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

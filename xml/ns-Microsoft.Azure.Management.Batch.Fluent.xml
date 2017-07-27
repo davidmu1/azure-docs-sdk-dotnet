@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Batch.Fluent">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Batch.Fluent namespace provides classes and interfaces that enable you to create and use Batch resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

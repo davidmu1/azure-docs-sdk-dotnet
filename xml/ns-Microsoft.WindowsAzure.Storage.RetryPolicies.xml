@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.Storage.RetryPolicies">
   <Docs>
-    <summary>Default RetryPolicy implementations and the IRetryPolicy interface.</summary>
+    <summary>The Microsoft.WindowsAzure.Storage.RetryPolicies namespace provides classes and interfaces that support access to attributes of default RetryPolicy implementations and the IRetryPolicy interface.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

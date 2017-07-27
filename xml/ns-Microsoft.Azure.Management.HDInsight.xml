@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.HDInsight">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.HDInsight namespace provides classes and interfaces that enable you to create and use HDInsight resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

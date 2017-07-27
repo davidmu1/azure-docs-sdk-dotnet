@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ApplicationInsights.Extensibility">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ApplicationInsights.Extensibility namespace provides classes and interfaces that enable you to process telemetry data.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

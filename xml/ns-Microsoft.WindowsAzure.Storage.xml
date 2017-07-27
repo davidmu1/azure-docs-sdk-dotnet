@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.Storage">
   <Docs>
-    <summary>Types common to all Storage services. Classes include CloudStorageAccount, StorageException, OperationContext, and other non-service-specific types.</summary>
+    <summary>The Microsoft.WindowsAzure.Storage namespace provides classes and interfaces that support access to Storage services resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

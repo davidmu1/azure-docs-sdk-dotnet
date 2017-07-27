@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasServerNameIndication.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasServerNameIndication.Definition namespace provides an interface that enables you to require server name indication (SNI).</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

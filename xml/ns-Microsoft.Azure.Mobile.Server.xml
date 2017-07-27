@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Mobile.Server">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Mobile.Server.Tables namespace provides classes that support server connections.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

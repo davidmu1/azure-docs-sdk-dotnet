@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateCombined">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateCombined namespace provides interfaces that enable you to update the combined record sets.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

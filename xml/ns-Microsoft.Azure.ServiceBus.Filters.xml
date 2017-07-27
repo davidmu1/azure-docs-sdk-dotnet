@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.ServiceBus.Filters">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.ServiceBus.Filters namespace provides classes that define Service Bus filters.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

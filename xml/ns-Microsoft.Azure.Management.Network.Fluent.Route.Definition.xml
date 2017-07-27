@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.Route.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.Route.Definition namespace provides interfaces that enable you to define a new route in a route table.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

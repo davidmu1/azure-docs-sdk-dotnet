@@ -1,6 +1,6 @@
 <Namespace Name="System.Fabric.Health">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The System.Fabric.Health namespace provides classes that support managing the health of Service Fabric applications.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

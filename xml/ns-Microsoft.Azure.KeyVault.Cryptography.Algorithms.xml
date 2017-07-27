@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.KeyVault.Cryptography.Algorithms">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.KeyVault.Cryptography.Algorithms namespace provides classes that define cryptography algorithms used with a key vault.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

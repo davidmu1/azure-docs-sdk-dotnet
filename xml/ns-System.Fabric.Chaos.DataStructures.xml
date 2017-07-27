@@ -1,6 +1,6 @@
 <Namespace Name="System.Fabric.Chaos.DataStructures">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The System.Fabric.Chaos.DataStructures namespace provides classes that support access to attributes of Chaos data structures and events.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

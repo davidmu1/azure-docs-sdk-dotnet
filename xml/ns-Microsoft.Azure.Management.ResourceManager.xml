@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager namespace provides classes and interfaces that enable you to create and use resources and resource groups.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Services.Runtime">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Services.Runtime namespace provides classes that support the registration of services with Service Fabric runtime.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

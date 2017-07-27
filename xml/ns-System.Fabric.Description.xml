@@ -1,6 +1,6 @@
 <Namespace Name="System.Fabric.Description">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The System.Fabric.Description namespace provides classes that support access to attributes of Service Fabric resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

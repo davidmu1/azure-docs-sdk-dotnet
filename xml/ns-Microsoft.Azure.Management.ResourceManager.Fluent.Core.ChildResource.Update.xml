@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Core.ChildResource.Update">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core.ChildResource.Update namespace provides an interface that updates a child resource.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

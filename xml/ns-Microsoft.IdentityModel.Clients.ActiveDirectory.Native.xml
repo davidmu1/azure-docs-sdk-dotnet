@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.IdentityModel.Clients.ActiveDirectory.Native">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.IdentityModel.Clients.ActiveDirectory.Native namespace provides an enumeration of padding modes.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

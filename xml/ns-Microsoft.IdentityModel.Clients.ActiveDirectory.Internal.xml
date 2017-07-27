@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.IdentityModel.Clients.ActiveDirectory.Internal">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.IdentityModel.Clients.ActiveDirectory.Internal namespace provides classes that support access of web authorization attributes.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

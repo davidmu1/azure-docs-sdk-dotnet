@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.DataFactories.Models">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.DataFactories.Models namespace provides classes and interfaces that enable you to access attributes of a data factory.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

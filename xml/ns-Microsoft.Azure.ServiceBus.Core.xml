@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.ServiceBus.Core">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.ServiceBus.Core namespace provides interfaces that support sending and receiving messages queues and subscriptions.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

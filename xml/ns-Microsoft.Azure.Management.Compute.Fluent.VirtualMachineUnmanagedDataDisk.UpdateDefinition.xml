@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineUnmanagedDataDisk.UpdateDefinition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineUnmanagedDataDisk.UpdateDefinition namespace provides interfaces that enable you to define the update a virtual machine that uses unmanaged data disks.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

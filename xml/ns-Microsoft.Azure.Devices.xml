@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Devices namespace provides classes and interfaces for defining and using devices.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

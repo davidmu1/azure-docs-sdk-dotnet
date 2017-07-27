@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Client">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Devices.Client namespace provides classes and interfaces for managing device clients.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

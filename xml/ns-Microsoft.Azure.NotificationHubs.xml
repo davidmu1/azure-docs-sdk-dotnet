@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.NotificationHubs">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.NotificationHubs namespace provides classes and interfaces that enable you to create and use Notification Hub resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

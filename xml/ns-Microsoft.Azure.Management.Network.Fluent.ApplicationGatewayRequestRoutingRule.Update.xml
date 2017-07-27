@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayRequestRoutingRule.Update">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayRequestRoutingRule.Update namespace provides interfaces that enable you to update a routing rule for an application gateway.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

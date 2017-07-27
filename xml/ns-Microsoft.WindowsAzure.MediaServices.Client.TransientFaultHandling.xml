@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.MediaServices.Client.TransientFaultHandling">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.WindowsAzure.MediaServices.Client.TransientFaultHandling namespace provides classes and interfaces that support fault handling.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

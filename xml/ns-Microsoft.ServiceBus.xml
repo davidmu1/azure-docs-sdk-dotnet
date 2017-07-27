@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceBus">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceBus namespace provides classes, structs, and interfaces that support the creation of Service Bus resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

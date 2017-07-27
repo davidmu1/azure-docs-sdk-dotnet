@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.NotificationHubs.Messaging">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.NotificationHubs.Messaging namespace supports access to attributes of messaging resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

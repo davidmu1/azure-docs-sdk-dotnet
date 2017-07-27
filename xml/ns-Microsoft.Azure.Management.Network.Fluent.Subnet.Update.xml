@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.Subnet.Update">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.Subnet.Update namespace provides interfaces that enable you to update a subnet in a virtual network. The address space, security group and route table can be updated.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

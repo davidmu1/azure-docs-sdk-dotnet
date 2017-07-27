@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetUnmanagedDataDisk.Update">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetUnmanagedDataDisk.Update namespace provides interfaces that enable you to update the virtual machines in a scale set that are using unmanaged data disks.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

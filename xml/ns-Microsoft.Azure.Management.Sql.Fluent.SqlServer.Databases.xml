@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Fluent.SqlServer.Databases">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlServer.Databases namespace provides an interface that enables you to access SQL Server databases.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

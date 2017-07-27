@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.Storage.Blob">
   <Docs>
-    <summary>Blob service types, stream wrappers, utility classes, and client-side encryption modules.</summary>
+    <summary>The Microsoft.WindowsAzure.Storage.Blob namespace provides classes and interfaces that support the access to attributes of blob service types, stream wrappers, utility classes, and client-side encryption modules.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

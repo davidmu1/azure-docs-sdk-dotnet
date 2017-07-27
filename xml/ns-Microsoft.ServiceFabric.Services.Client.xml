@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Services.Client">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Services.Client namespace provides classes and interfaces that supports access to attributes of a service partition.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

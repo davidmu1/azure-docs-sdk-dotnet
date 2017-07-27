@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Redis.Fluent.RedisCache.Update">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Redis.Fluent.RedisCache.Update namespace provides interfaces that enable you to update a cache.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

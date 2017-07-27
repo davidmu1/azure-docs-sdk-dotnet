@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.DataFactories.Common.Models">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.DataFactories.Common.Models namespace provides classes that enable you to access common attributes of a data factory.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

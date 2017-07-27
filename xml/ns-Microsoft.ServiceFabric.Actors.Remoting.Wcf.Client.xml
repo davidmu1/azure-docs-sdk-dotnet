@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors.Remoting.Wcf.Client">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors.Remoting.Wcf.Client namespace provides a class that uses Windows Communication Foundation to communicate with an actor service and actors hosted by it.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

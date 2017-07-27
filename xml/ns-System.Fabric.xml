@@ -1,6 +1,6 @@
 <Namespace Name="System.Fabric">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The System.Fabric namespace provides classes, structs, and interfaces that support access to attributes of Service Fabric resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

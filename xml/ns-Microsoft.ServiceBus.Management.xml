@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceBus.Management">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceBus.Management namespace provides classes that support management operations for Service Bus connections.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

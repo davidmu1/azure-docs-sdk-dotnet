@@ -1,6 +1,6 @@
 <Namespace Name="System.Fabric.Security">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The System.Fabric.Security namespace provides classes that support authentication with Azure Active Directory.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

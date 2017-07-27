@@ -1,6 +1,6 @@
 <Namespace Name="System.Fabric.Repair">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The System.Fabric.Repair namespace provides classes that support reparing of clusters and nodes.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

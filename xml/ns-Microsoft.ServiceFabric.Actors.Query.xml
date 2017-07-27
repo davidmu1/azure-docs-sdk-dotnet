@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors.Query">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors.Query namespace provides classes that support query operations.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

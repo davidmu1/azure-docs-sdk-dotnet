@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.SqlDatabase.ElasticScale.ShardManagement">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.SqlDatabase.ElasticScale.ShardManagement namespace provides classes that support access to shard management operations.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

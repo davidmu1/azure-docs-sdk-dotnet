@@ -1,6 +1,6 @@
 <Namespace Name="System.Fabric.Query">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The System.Fabric.Query namespace provides classes that support querying of application and service data.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

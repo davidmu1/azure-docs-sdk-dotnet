@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent namespace provides classes and interfaces that enable you to create and use App Service resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

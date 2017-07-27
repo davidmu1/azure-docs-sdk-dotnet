@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasCookieBasedAffinity.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasCookieBasedAffinity.Definition namespace provides interfaces that enable you to enable cookie based affinity.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

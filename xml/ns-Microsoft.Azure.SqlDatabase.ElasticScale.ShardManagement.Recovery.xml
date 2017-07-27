@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.SqlDatabase.ElasticScale.ShardManagement.Recovery">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.SqlDatabase.ElasticScale.ShardManagement.Recovery namespace provides classes and that support access to recovery related tasks.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

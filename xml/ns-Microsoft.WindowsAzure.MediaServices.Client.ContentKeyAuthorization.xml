@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.MediaServices.Client.ContentKeyAuthorization">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.WindowsAzure.MediaServices.Client.ContentKeyAuthorization namespace provides classes and interfaces that support the access of attributes of content key authorization.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

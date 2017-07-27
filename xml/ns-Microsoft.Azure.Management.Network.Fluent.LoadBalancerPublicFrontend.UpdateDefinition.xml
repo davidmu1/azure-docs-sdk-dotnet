@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.LoadBalancerPublicFrontend.UpdateDefinition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerPublicFrontend.UpdateDefinition namespace provides interfaces that enable you to define the update a public front-end configuration assigned to a load balancer.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

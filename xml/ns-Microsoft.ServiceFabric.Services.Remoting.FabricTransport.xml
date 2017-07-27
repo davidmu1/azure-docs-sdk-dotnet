@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Services.Remoting.FabricTransport">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Services.Remoting.FabricTransport namespace provides classes that support configuring Fabric TCP transport communication.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

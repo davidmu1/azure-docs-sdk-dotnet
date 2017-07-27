@@ -1,6 +1,6 @@
 <Namespace Name="System.Fabric.Management.ServiceModel">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The System.Fabric.Management.ServiceModel namespace provides classes that support access to attributes of Service Fabric resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

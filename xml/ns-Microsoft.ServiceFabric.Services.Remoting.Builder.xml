@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Services.Remoting.Builder">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Services.Remoting.Builder namespace provides classes that support managing service remoting.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

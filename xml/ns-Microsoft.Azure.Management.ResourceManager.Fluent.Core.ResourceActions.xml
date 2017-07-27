@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Core.ResourceActions">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core.ResourceActions namespace provides classes and interfaces that support the actions that can be performed by a resource .</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

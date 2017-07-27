@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.TrafficManager.Models">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.TrafficManager.Models namespace provides classes that enable you to access attributes of Traffic Manager resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

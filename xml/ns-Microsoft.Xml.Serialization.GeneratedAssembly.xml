@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Xml.Serialization.GeneratedAssembly">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Xml.Serialization.GeneratedAssembly namespace provides classes that support serialization of application data.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

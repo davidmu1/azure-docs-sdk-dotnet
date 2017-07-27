@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.PowerBI.Api.V1.Models">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.PowerBI.Api.V1.Models namespace provides classes that support access to attributes of Power BI resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

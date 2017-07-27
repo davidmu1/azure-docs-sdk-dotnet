@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.SqlDatabase.ElasticScale">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.SqlDatabase.ElasticScale namespace provides a class that defines the retry behavior to use for detecting transient errors.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.TrafficManager.Fluent.TrafficManagerEndpoint.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.TrafficManager.Fluent.TrafficManagerEndpoint.Definition namespace provides interfaces that enable you to define an endpoint in a Traffic Manager profile.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

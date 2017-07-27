@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasPort.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasPort.Definition namespace provides an interface that enables you to define a port number.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

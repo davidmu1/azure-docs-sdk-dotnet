@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.HDInsight.Job.Models">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.HDInsight.Job.Models namespace provides classes and interfaces that enable you to access attributes of a HDInsight job.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

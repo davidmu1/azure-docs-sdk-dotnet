@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceBus.Common">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceBus.Common namespace provides classes that support common dictionary read actions.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

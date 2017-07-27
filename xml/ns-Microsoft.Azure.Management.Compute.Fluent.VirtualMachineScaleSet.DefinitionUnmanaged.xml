@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSet.DefinitionUnmanaged">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSet.DefinitionUnmanaged namespace provides interfaces that enable you to define a virtual machine scale set using unmanaged disks.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

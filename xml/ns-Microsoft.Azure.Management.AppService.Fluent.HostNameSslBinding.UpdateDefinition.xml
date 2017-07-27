@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.HostNameSslBinding.UpdateDefinition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.HostNameSslBinding.UpdateDefinition namespace provides interfaces that enable you to update hostname SSL bindings.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

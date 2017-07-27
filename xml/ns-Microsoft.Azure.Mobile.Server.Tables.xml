@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Mobile.Server.Tables">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Mobile.Server.Tables namespace provides a class that supports SQL table generation.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

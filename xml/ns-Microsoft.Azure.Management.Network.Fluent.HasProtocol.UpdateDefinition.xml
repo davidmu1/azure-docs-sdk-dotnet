@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasProtocol.UpdateDefinition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasProtocol.UpdateDefinition namespace provides an interface that enables you to define the update of the transport protocol.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

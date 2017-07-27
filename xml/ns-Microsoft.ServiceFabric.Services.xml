@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Services">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Services namespace provides a class that derives the names of various items.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

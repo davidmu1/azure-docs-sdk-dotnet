@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.LoadBalancerInboundNatRule.UpdateDefinition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerInboundNatRule.UpdateDefinition namespace provides interfaces that enable you to define the update of an inbound NAT rule assigned to a load balancer.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

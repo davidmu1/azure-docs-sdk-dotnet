@@ -1,6 +1,6 @@
 <Namespace Name="System.Fabric.Testability.Scenario">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The System.Fabric.Testability.Scenario namespace provides classes that support access to attributes of test scenarios.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.Storage.Table.DataServices">
   <Docs>
-    <summary>Legacy Table service implementation based on the WCF Data Services client.</summary>
+    <summary>The Microsoft.WindowsAzure.Storage.Table.DataServices namespace provides classes that support access to attributes of a legacy Table service implementation based on the WCF Data Services client.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

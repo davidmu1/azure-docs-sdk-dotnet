@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Media">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Media namespace provides classes and interfaces that enable you to create and use Media Services resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Client.Transport.Mqtt">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Devices.Client.Transport.Mqtt namespace provides classes and interfaces that enable you to manage device transport channels.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

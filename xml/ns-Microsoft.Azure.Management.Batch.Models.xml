@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Batch.Models">
   <Docs>
-    <summary>Contains types representing Azure Batch Management REST API operations and HTTP message bodies.</summary>
+    <summary>The Microsoft.Azure.Management.Batch.Models namespace provides classes that enable you to access attributes of Batch resources.</summary>
     <remarks>None.</remarks>
   </Docs>
 </Namespace>

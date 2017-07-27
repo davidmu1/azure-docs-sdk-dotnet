@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Services.Remoting.FabricTransport.Runtime">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Services.Remoting.FabricTransport.Runtime namespace provides classes that support access to attributes of a Fabric Transport Listener.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

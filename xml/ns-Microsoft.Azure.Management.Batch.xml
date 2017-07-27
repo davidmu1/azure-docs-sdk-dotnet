@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Batch">
   <Docs>
-    <summary>Specifies the APIs that are used to manage Batch service resources such as accounts, applications, and application packages.</summary>
+    <summary>The namespace provides classes and interfaces that enable you to create and use Batch resources.</summary>
     <remarks>None.</remarks>
   </Docs>
 </Namespace>

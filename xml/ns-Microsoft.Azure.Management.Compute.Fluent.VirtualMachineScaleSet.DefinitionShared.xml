@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSet.DefinitionShared">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSet.DefinitionShared namespace provides interfaces that defines the shared virtual machine scale set stages.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

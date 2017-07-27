@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.KeyVault.Fluent.Vault.Update">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.KeyVault.Fluent.Vault.Update namespace provides interfaces that enable you to update a key vault.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

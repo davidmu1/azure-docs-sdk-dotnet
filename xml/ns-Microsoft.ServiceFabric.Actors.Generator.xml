@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors.Generator">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors.Generator namespace namespace provides a class that generates names like service name and application name from the actor interface type.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

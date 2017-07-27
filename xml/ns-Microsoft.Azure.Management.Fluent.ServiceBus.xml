@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Fluent.ServiceBus">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Fluent.ServiceBus namespace provides classes that enable you to create and use Service Bus resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

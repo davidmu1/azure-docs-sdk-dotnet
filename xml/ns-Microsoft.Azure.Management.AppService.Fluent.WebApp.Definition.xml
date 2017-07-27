@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.WebApp.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.WebApp.Definition namespace provides interfaces that enable you to define a web app.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

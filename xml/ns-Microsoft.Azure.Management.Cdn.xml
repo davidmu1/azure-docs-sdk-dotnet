@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Cdn">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Cdn namespace provides classes and interfaces that enable you to create and use CDN resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

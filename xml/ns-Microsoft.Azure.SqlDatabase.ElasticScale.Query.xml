@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.SqlDatabase.ElasticScale.Query">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.SqlDatabase.ElasticScale.Query namespace provides classes that support access to query attributes.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

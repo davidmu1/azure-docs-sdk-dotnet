@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Data">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Data namespace provides classes, structs, and interfaces that support access to data backup attributes.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

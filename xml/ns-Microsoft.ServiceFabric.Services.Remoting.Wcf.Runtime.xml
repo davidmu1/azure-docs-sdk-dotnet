@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Services.Remoting.Wcf.Runtime">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Services.Remoting.Wcf.Runtime namespace provides a class that defines a A Windows Communication Foundation based listener for remoting services.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

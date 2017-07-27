@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.Storage.Core.Auth">
   <Docs>
-    <summary>General authentication helper modules such as SharedKey canonicalizers.</summary>
+    <summary>The Microsoft.WindowsAzure.Storage.Core.Auth namespace provides classes and interfaces that defines general authentication helper modules such as SharedKey canonicalizers.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Fluent.SqlFirewallRules.SqlFirewallRulesCreatable">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlFirewallRules.SqlFirewallRulesCreatable namespace provides an interface that supports the creation of a SQL firewall rule.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

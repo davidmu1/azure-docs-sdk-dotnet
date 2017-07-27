@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasFrontend.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasFrontend.Definition namespace provides interfaces that enable you to define a front-end load balancer for your network.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

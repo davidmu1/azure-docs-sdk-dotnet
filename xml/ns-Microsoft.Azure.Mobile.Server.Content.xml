@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Mobile.Server.Content">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Mobile.Server.Content namespace provides a class that generates an HTML-formatted System.Web.Http.IHttpActionResult from an embedded resource.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

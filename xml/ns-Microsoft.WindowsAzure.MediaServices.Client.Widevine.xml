@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.MediaServices.Client.Widevine">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.WindowsAzure.MediaServices.Client.Widevine namespace provides classes that support access to attributes of Widevine resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

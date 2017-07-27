@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Relay">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Relay namespace provides classes supports access to Relay resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

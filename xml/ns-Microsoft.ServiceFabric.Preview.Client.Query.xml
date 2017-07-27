@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Preview.Client.Query">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Preview.Client.Query namespace provides classes that support the querying of Service Fabric status information.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

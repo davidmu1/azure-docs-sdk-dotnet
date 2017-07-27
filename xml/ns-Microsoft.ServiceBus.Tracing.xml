@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceBus.Tracing">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceBus.Tracing namespace provides a class that is used to communicate tracking information for requests.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

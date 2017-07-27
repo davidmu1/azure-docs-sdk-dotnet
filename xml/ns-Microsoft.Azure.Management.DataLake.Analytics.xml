@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.DataLake.Analytics">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.DataLake.Analytics namespace provides classes and interfaces that enable you to create and use a Data Lake Analytics account.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

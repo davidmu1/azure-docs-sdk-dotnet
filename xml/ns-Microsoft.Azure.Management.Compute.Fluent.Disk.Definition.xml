@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.Disk.Definition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.Disk.Definition namespace provides interfaces that enables you to define managed disks for a virtual machine.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

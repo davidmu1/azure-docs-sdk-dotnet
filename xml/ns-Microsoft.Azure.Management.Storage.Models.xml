@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Storage.Models">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Storage.Models namespace provides classes that enable you to access attributes of a storage account.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

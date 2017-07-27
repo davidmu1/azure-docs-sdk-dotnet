@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Core.ChildResourceActions">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core.ChildResourceActions namespace provides interfaces that specify actions that can be performed on child resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.Storage.File">
   <Docs>
-    <summary>File service types, stream wrappers, and utility classes.</summary>
+    <summary>The Microsoft.WindowsAzure.Storage.File namespace provides classes and interfaces that support access to attributes of file service types, stream wrappers, and utility classes.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Services.Remoting.Client">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Services.Remoting.Client namespace provides classes and interfaces that supports managing remote communication to a service.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

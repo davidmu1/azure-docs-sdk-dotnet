@@ -1,6 +1,6 @@
 <Namespace Name="System.Fabric.Result">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The System.Fabric.Result namespace provides classes that define result objects.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

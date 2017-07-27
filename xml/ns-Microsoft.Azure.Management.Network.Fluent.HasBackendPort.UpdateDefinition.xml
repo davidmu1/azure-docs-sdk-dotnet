@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasBackendPort.UpdateDefinition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasBackendPort.UpdateDefinition namespace provides interfaces that enable you to define the update of a port for a back-end load balancer.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

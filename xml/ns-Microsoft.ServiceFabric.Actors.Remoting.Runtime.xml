@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors.Remoting.Runtime">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors.Remoting.Runtime namespace provides a class that dispatches messages to an actor service and to the actors hosted in the service..</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

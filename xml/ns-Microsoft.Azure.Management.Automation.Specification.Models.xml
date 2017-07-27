@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Automation.Specification.Models">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Automation.Specification.Models namespace provides classes that enable you to access attributes of Dsc report resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

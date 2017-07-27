@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasHostName.UpdateDefinition">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasHostName.UpdateDefinition namespace provides an interface that enables you to define the update of the host name.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

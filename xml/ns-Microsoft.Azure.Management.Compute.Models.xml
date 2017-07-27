@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Models">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Models namespace provides classes that enable you to access attributes of Compute resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

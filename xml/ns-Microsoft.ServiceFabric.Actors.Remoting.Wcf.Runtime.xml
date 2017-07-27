@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors.Remoting.Wcf.Runtime">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors.Remoting.Wcf.Runtime namespace provides a class that uses Windows Communication Foundation to provide interface remoting for actor services.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

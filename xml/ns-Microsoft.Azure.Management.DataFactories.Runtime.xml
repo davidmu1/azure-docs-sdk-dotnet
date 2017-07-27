@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.DataFactories.Runtime">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Azure.Management.DataFactories.Runtime namespace provides interfaces that enable you to log data factory activities.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>
