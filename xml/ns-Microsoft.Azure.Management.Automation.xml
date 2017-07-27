@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Automation">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Automation namespace provides classes and interfaces that enable you to create and use Azure Automation resources.</summary>
+    <summary>The Microsoft.Azure.Management.Automation namespace provides classes and interfaces that support creating and using Azure Automation resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

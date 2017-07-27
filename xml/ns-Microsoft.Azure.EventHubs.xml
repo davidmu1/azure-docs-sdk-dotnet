@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.EventHubs">
   <Docs>
-    <summary>The Microsoft.Azure.EventHubs namespace provides classes and interfaces that enable you to perform operations on Event Hubs.</summary>
+    <summary>The Microsoft.Azure.EventHubs namespace provides classes and interfaces that support creating and using Event Hubs resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

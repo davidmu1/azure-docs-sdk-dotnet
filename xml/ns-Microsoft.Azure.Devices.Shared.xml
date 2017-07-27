@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Shared">
   <Docs>
-    <summary>The Microsoft.Azure.Devices.Shared namespace provides classes and interfaces that enable you to define device twins.</summary>
+    <summary>The Microsoft.Azure.Devices.Shared namespace provides classes and interfaces that support defining device twins.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

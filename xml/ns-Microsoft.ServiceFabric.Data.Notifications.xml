@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Data.Notifications">
   <Docs>
-    <summary>The Microsoft.ServiceFabric.Data.Notifications namespace provides classes that support notifications when a dictionary changes.</summary>
+    <summary>The Microsoft.ServiceFabric.Data.Notifications namespace provides classes that support defining notifications when a dictionary changes.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

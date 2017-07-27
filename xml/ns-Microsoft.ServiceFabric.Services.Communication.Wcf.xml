@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Services.Communication.Wcf">
   <Docs>
-    <summary>The Microsoft.ServiceFabric.Services.Communication.Wcf namespace provides a class that creates default bindings for WCF communication.</summary>
+    <summary>The Microsoft.ServiceFabric.Services.Communication.Wcf namespace provides a class that creates default bindings for Windows Communication Foundation communication.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

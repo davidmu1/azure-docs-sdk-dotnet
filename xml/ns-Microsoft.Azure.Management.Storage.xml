@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Storage">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Storage namespace provides classes and interfaces that enable you to create and use a storage account.</summary>
+    <summary>The Microsoft.Azure.Management.Storage namespace provides classes and interfaces that support creating and using Storage resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Client.Errors">
   <Docs>
-    <summary>The Microsoft.Azure.Devices.Client.Errors provides an enumeration of DeviceGateway error codes.</summary>
+    <summary>The Microsoft.Azure.Devices.Client.Errors namespace provides an enumeration of DeviceGateway error codes.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

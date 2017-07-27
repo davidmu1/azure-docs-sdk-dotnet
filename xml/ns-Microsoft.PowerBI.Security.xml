@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.PowerBI.Security">
   <Docs>
-    <summary>The Microsoft.PowerBI.Security namespace provides classes that support access to Power BI security attributes.</summary>
+    <summary>The Microsoft.PowerBI.Security namespace provides classes that support access to attributes of Power BI security.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.TrafficManager.Fluent.TrafficManagerEndpoint.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.TrafficManager.Fluent.TrafficManagerEndpoint.Update namespace provides interfaces that enable you to update an endpoint in a Traffic Manager profile.</summary>
+    <summary>The Microsoft.Azure.Management.TrafficManager.Fluent.TrafficManagerEndpoint.Update namespace provides interfaces that support updating an endpoint in a Traffic Manager profile.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

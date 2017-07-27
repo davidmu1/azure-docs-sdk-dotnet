@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ApplicationInsights.DataContracts">
   <Docs>
-    <summary>The Microsoft.ApplicationInsights.DataContracts namespace provides classes and interfaces that enable you to define telemetry types.</summary>
+    <summary>The Microsoft.ApplicationInsights.DataContracts namespace provides classes and interfaces that support defining telemetry types.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

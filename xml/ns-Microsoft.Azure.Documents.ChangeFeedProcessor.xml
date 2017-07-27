@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Documents.ChangeFeedProcessor">
   <Docs>
-    <summary>The Microsoft.Azure.Documents.ChangeFeedProcessor namespace provides classes and interfaces that enable you to control aspects of change feed events.</summary>
+    <summary>The Microsoft.Azure.Documents.ChangeFeedProcessor namespace provides classes and interfaces that support access to attributes of change feed events.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

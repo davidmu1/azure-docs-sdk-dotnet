@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Cdn.Fluent.CdnEndpoint.UpdateDefinition.Blank.PremiumEndpoint">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Cdn.Fluent.CdnEndpoint.UpdateDefinition.Blank.PremiumEndpoint namespace provides interfaces that enable you to define the update of a CDN profile endpoint with the Premium Verizon sku.</summary>
+    <summary>The Microsoft.Azure.Management.Cdn.Fluent.CdnEndpoint.UpdateDefinition.Blank.PremiumEndpoint namespace provides interfaces that support defining the update of a CDN profile endpoint with the Premium Verizon sku.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.ResourceGroup.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.ResourceGroup.Update namespace provides an interface that enables you to update a resource group.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.ResourceGroup.Update namespace provides an interface that supports updating a resource group.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Redis">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Redis namespace provides classes and interfaces that enable you to create and use a cache.</summary>
+    <summary>The Microsoft.Azure.Management.Redis namespace provides classes and interfaces that support creating and using Redis resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

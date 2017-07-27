@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.WebAppBase.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.AppService.Fluent.WebAppBase.Definition namespace provides interfaces that enable you to define web app stages.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.WebAppBase.Definition namespace provides interfaces that support defining web app stages.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Common.WebApi">
   <Docs>
-    <summary>The Microsoft.Azure.Devices.Common.WebApi namespace provides classes that enable you to manage resource requests.</summary>
+    <summary>The Microsoft.Azure.Devices.Common.WebApi namespace provides classes that support managing resource requests.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

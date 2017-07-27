@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Billing.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Billing.Models namespace provides classes that enable you to access attributes of Billing service resources.</summary>
+    <summary>The Microsoft.Azure.Management.Billing.Models namespace provides classes that support access to attributes of Billing resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

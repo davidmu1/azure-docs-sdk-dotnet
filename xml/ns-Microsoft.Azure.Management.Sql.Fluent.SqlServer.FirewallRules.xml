@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Fluent.SqlServer.FirewallRules">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlServer.FirewallRules namespace provides an interface that enables you to access SQL Server firewall rules.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlServer.FirewallRules namespace provides an interface that supports access to SQL Server firewall rules.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

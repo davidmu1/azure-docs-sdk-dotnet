@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.DeploymentSlot.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.AppService.Fluent.DeploymentSlot.Update namespace provides interfaces that enable you to update a deployment slot.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.DeploymentSlot.Update namespace provides interfaces that support updating a deployment slot.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

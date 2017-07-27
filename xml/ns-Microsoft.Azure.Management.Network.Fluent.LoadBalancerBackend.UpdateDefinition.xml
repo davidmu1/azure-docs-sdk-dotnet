@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.LoadBalancerBackend.UpdateDefinition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerBackend.UpdateDefinition namespace provides interfaces that enable you to define the update of the back-end configuration for a load balancer.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerBackend.UpdateDefinition namespace provides interfaces that support defining the update of the back-end configuration for a load balancer.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

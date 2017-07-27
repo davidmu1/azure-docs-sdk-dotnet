@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetUnmanagedDataDisk.DefinitionWithImage">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetUnmanagedDataDisk.DefinitionWithImage namespace provides interfaces that enable you to define an unmanaged data disk using an image for a virtual machine in a scale set.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetUnmanagedDataDisk.DefinitionWithImage namespace provides interfaces that support defining an unmanaged data disk using an image for a virtual machine in a scale set.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

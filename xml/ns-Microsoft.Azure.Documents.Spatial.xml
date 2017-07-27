@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Documents.Spatial">
   <Docs>
-    <summary>The Microsoft.Azure.Documents.Spatial namespace provides classes that enable you to define spatial geometry objects.</summary>
+    <summary>The Microsoft.Azure.Documents.Spatial namespace provides classes that support defining spatial geometry objects.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.SqlDatabase.ElasticScale.ShardManagement.Schema">
   <Docs>
-    <summary>The Microsoft.Azure.SqlDatabase.ElasticScale.ShardManagement.Schema namespace provides classes that support access attributes of a schema.</summary>
+    <summary>The Microsoft.Azure.SqlDatabase.ElasticScale.ShardManagement.Schema namespace provides classes that support access to attributes of a schema.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

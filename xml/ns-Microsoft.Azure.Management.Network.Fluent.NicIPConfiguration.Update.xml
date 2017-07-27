@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.NicIPConfiguration.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.NicIPConfiguration.Update namespace provides interfaces that enable you to update the IP configuration of a network interface.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.NicIPConfiguration.Update namespace provides interfaces that support updating the IP configuration of a network interface.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Fluent.SqlDatabase.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlDatabase.Update namespace provides interfaces that enable you to update a SQL database.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlDatabase.Update namespace provides interfaces that support updating a SQL database.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

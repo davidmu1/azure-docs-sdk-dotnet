@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Documents.Partitioning">
   <Docs>
-    <summary>The Microsoft.Azure.Documents.Partitioning namespace provides classes and interfaces that enable you to partition requests to the database.</summary>
+    <summary>The Microsoft.Azure.Documents.Partitioning namespace provides classes and interfaces that support partitioning requests to the database.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

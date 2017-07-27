@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Dns">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Dns namespace provides classes and interfaces that enable you to create DNS resources.</summary>
+    <summary>The Microsoft.Azure.Management.Dns namespace provides classes and interfaces that support creating DNS resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

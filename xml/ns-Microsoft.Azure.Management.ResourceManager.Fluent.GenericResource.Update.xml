@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.GenericResource.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.GenericResource.Update namespace provides interfaces that support the updating of resources.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.GenericResource.Update namespace provides interfaces that support updating a resource.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

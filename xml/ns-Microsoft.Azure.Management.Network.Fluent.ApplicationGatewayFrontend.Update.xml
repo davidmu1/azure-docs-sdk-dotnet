@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayFrontend.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayFrontend.Update namespace provides interfaces that enable you to update an application gateway frontend.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayFrontend.Update namespace provides interfaces that support updating an application gateway frontend.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

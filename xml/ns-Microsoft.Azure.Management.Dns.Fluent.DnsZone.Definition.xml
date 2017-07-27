@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Dns.Fluent.DnsZone.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsZone.Definition namespace provides interfaces that enable you to define a DNS zone.</summary>
+    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsZone.Definition namespace provides interfaces that support defining a DNS zone.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

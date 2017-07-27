@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Automation.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Automation.Models namespace provides classes that enable you to access attributes of Automation resources.</summary>
+    <summary>The Microsoft.Azure.Management.Automation.Models namespace provides classes that support access to attributes of Automation resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Batch.Fluent.BatchAccount.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Batch.Fluent.BatchAccount.Definition namespace enables you to define a new Batch account.</summary>
+    <summary>The Microsoft.Azure.Management.Batch.Fluent.BatchAccount.Definition namespace supports defining a Batch account.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

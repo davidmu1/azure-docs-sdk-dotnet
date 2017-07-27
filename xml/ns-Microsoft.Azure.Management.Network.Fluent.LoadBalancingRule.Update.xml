@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.LoadBalancingRule.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancingRule.Update namespace provides interfaces that enable you to update a load balancing rule.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancingRule.Update namespace provides interfaces that support updating a load balancing rule.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

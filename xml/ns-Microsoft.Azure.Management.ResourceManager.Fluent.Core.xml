@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Core">
   <Docs>
-    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core namespace provides classes, structs, and interfaces that support the creation and use of resources.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core namespace provides classes, structs, and interfaces that support creating and using resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

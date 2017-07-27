@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Common.Data">
   <Docs>
-    <summary>The Microsoft.Azure.Devices.Common.Data namespace provides classes for defining access rights.</summary>
+    <summary>The Microsoft.Azure.Devices.Common.Data namespace provides classes that support defining access rights.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

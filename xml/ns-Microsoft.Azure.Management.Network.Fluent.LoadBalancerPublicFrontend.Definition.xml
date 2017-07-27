@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.LoadBalancerPublicFrontend.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerPublicFrontend.Definition namespace provides interfaces that enable you to define a public front-end configuration for a load balancer.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerPublicFrontend.Definition namespace provides interfaces that support defining a public front-end configuration for a load balancer.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

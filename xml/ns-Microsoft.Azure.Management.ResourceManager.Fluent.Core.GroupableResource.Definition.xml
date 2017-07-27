@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Core.GroupableResource.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core.GroupableResource.Definition namespace provides interfaces that support resource group creation.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core.GroupableResource.Definition namespace provides interfaces that support creating a resource group.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

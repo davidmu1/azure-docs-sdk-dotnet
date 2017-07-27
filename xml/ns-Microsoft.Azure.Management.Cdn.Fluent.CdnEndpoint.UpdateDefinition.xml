@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Cdn.Fluent.CdnEndpoint.UpdateDefinition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Cdn.Fluent.CdnEndpoint.UpdateDefinition provides interfaces that enable you to define the update of a CDN profile endpoint.</summary>
+    <summary>The Microsoft.Azure.Management.Cdn.Fluent.CdnEndpoint.UpdateDefinition namespace provides interfaces that support defining the update of a CDN profile endpoint.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.LoadBalancerInboundNatPool.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerInboundNatPool.Definition namespace provides interfaces that enable you to define an inbound NAT pool for a load balancer.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerInboundNatPool.Definition namespace provides interfaces that support defining an inbound NAT pool for a load balancer.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

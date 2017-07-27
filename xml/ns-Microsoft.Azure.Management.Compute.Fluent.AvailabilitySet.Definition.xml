@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.AvailabilitySet.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.AvailabilitySet.Definition namespace provides interfaces that enable you to define an availability set.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.AvailabilitySet.Definition namespace provides interfaces that support defining an availability set.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

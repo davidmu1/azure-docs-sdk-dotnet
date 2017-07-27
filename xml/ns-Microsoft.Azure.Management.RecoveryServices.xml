@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.RecoveryServices">
   <Docs>
-    <summary>The Microsoft.Azure.Management.RecoveryServices namespace provides classes and interfaces that enable you to create and use Recovery Services vaults.</summary>
+    <summary>The Microsoft.Azure.Management.RecoveryServices namespace provides classes and interfaces that support creating and using Recovery Services resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

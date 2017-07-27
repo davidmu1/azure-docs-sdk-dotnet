@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.NetworkSecurityGroup.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.NetworkSecurityGroup.Update namespace provides interfaces that enable you to update a network security group.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.NetworkSecurityGroup.Update namespace provides interfaces that support updating a network security group.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

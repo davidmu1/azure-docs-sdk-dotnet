@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Identity.Client">
   <Docs>
-    <summary>The Microsoft.Identity.Client namespace provides classes, structs, and interfaces that support access of client attributes.</summary>
+    <summary>The Microsoft.Identity.Client namespace provides classes, structs, and interfaces that support access to attributes of a client.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

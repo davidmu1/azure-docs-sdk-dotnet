@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors">
   <Docs>
-    <summary>The Microsoft.ServiceFabric.Actors namespace provides classes and interfaces that support access to actor attributes.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors namespace provides classes and interfaces that support access to attributes of an actor.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

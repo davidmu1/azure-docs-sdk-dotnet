@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.TrafficManager">
   <Docs>
-    <summary>The Microsoft.Azure.Management.TrafficManager namespace provides interfaces that enable you to create and use Traffic Manager resources.</summary>
+    <summary>The Microsoft.Azure.Management.TrafficManager namespace provides interfaces that support creating and using Traffic Manager resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

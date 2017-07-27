@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.KeyVault.Fluent.AccessPolicy.UpdateDefinition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.KeyVault.Fluent.AccessPolicy.UpdateDefinition namespace provides interfaces that enable you to define an update for an access policy.</summary>
+    <summary>The Microsoft.Azure.Management.KeyVault.Fluent.AccessPolicy.UpdateDefinition namespace provides interfaces that support defining an update of an access policy.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

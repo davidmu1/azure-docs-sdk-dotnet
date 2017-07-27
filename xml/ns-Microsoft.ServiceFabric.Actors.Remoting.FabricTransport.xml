@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors.Remoting.FabricTransport">
   <Docs>
-    <summary>The Microsoft.ServiceFabric.Actors.Remoting.FabricTransport namespace provides classes that supports access to Fabric TCP transport attributes.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors.Remoting.FabricTransport namespace provides classes that support access to attributes of a Fabric TCP transport.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

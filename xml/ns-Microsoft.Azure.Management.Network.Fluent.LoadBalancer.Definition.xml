@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.LoadBalancer.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancer.Definition namespace provides interfaces that enable you to define a load balancer for a virtual network.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancer.Definition namespace provides interfaces that support defining a load balancer for a virtual network.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

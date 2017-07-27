@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Batch.Fluent.Application.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Batch.Fluent.Application.Update namespace provides interfaces that enable you to update an application package.</summary>
+    <summary>The Microsoft.Azure.Management.Batch.Fluent.Application.Update namespace provides interfaces that support updating an application package.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

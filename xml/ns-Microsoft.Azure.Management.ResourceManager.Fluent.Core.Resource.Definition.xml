@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Core.Resource.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core.Resource.Definition namespace provides interfaces that supports the creation of a resource.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core.Resource.Definition namespace provides interfaces that support defining a resource.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

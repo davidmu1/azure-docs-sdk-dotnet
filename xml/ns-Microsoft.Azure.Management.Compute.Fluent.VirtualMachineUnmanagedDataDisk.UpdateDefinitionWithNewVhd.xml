@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineUnmanagedDataDisk.UpdateDefinitionWithNewVhd">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineUnmanagedDataDisk.UpdateDefinitionWithNewVhd namespace provides interfaces that enable you to define the update of unmanaged data disks using a new VHD</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineUnmanagedDataDisk.UpdateDefinitionWithNewVhd namespace provides interfaces that support defining the update of unmanaged data disks using a new VHD.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

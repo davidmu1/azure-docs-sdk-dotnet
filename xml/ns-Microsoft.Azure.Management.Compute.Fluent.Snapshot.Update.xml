@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.Snapshot.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.Snapshot.Update namespace provides interfaces that enable you to update managed snapshots.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.Snapshot.Update namespace provides interfaces that supports updating managed snapshots.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

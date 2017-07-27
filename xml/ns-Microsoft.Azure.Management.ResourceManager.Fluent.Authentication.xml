@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Authentication">
   <Docs>
-    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Authentication namespace provides classes that enable you to autheticate requests to Azure Resource Manager.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Authentication namespace provides classes that support autheticating requests to Azure Resource Manager.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

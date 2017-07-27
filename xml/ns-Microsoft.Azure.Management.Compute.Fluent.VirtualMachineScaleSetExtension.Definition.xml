@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetExtension.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetExtension.Definition namespace provides interfaces that enable you to define a virtual machine extensions in a scale set.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetExtension.Definition namespace provides interfaces that support defining virtual machine extensions in a scale set.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

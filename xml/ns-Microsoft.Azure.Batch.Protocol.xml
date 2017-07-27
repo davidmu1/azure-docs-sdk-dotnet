@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Batch.Protocol">
   <Docs>
-    <summary>Contains types representing Azure Batch REST API operations and HTTP message bodies.</summary>
+    <summary>The Microsoft.Azure.Batch.Protocol namespace provides classes and interfaces that support Batch operations.</summary>
     <remarks>None.</remarks>
   </Docs>
 </Namespace>

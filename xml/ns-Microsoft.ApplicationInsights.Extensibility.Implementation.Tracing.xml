@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ApplicationInsights.Extensibility.Implementation.Tracing">
   <Docs>
-    <summary>The Microsoft.ApplicationInsights.Extensibility.Implementation.Tracing provides classes that enable you to use the diagnostics telemetry module.</summary>
+    <summary>The Microsoft.ApplicationInsights.Extensibility.Implementation.Tracing namespace provides classes that support using the diagnostics telemetry module.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

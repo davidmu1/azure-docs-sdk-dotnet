@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.DeploymentSlot.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.AppService.Fluent.DeploymentSlot.Definition namespace provides interfaces that enable you to define a deployment slot.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.DeploymentSlot.Definition namespace provides interfaces that support defining a deployment slot.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

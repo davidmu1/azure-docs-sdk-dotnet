@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Cdn.Fluent.CdnEndpoint.Definition.Blank.StandardEndpoint">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Cdn.Fluent.CdnEndpoint.Definition.Blank.StandardEndpoint namespace provides interfaces that enable you to define the CDN profile endpoint with the Standard sku.</summary>
+    <summary>The Microsoft.Azure.Management.Cdn.Fluent.CdnEndpoint.Definition.Blank.StandardEndpoint namespace provides interfaces that support defining a CDN profile endpoint with the Standard sku.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

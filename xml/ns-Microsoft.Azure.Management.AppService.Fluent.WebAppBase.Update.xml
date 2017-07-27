@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.WebAppBase.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.AppService.Fluent.WebAppBase.Update namespace provides interfaces that enable you to update web app stages.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.WebAppBase.Update namespace provides interfaces that support updating web app stages.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

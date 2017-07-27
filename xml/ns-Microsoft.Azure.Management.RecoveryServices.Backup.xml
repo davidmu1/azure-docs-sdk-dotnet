@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.RecoveryServices.Backup">
   <Docs>
-    <summary>The Microsoft.Azure.Management.RecoveryServices.Backup namespace provides classes and interfaces that enable you to create and use backups.</summary>
+    <summary>The Microsoft.Azure.Management.RecoveryServices.Backup namespace provides classes and interfaces that support creating and using Backup resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.KeyVault.Fluent.AccessPolicy.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.KeyVault.Fluent.AccessPolicy.Definition namespace provides interfaces that enable you to define an access policy for a key vault.</summary>
+    <summary>The Microsoft.Azure.Management.KeyVault.Fluent.AccessPolicy.Definition namespace provides interfaces that support defining an access policy for a key vault.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

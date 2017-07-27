@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.DataFactories.Conversion">
   <Docs>
-    <summary>The Microsoft.Azure.Management.DataFactories.Conversion namespace provides interfaces that enable you to access registration operations.</summary>
+    <summary>The Microsoft.Azure.Management.DataFactories.Conversion namespace provides interfaces that support access to registration operations.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

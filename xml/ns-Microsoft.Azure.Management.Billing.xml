@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Billing">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Billing namespace provides classes and interfaces that enable you to create and use Billing service resources.</summary>
+    <summary>The Microsoft.Azure.Management.Billing namespace provides classes and interfaces that support creating and using Billing resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

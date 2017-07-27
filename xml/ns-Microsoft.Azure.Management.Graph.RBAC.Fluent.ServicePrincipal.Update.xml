@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Graph.RBAC.Fluent.ServicePrincipal.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Graph.RBAC.Fluent.ServicePrincipal.Update namespace provides interfaces that enable you to update a service principal.</summary>
+    <summary>The Microsoft.Azure.Management.Graph.RBAC.Fluent.ServicePrincipal.Update namespace provides interfaces that support updating an Active Directory service principal.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

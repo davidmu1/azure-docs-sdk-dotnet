@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceBus.Messaging.Amqp.Serialization">
   <Docs>
-    <summary>The Microsoft.ServiceBus.Messaging.Amqp.Serialization namespace enumerates the encoding type associated with the serialization.</summary>
+    <summary>The Microsoft.ServiceBus.Messaging.Amqp.Serialization namespace provides an enumeration of the encoding type associated with the serialization.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

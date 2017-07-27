@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Client.Exceptions">
   <Docs>
-    <summary>The Microsoft.Azure.Devices.Client.Exceptions namespace provides classes that enable you to collect device exceptions.</summary>
+    <summary>The Microsoft.Azure.Devices.Client.Exceptions namespace provides classes that support collecting device exceptions.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

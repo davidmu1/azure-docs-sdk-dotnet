@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Fluent">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Fluent namespace provides classes and interfaces that enable you to access account resources.</summary>
+    <summary>The Microsoft.Azure.Management.Fluent namespace provides classes and interfaces that support access to attributes of account resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.Storage.Blob.Protocol">
   <Docs>
-    <summary>The Microsoft.WindowsAzure.Storage.Blob.Protocol namespace provides classes and interfaces that define Blob service protocol layer types and helpers such as Request Factory and Response Parsers.</summary>
+    <summary>The Microsoft.WindowsAzure.Storage.Blob.Protocol namespace provides classes and interfaces that support defining layer types and helpers for the Blob service protocol.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateMXRecordSet">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateMXRecordSet namespace provides interfaces that enable you to update a MX record set.</summary>
+    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateMXRecordSet namespace provides interfaces that support updating a MX record set.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

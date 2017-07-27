@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Client.Transport">
   <Docs>
-    <summary>The Microsoft.Azure.Devices.Client.Transport namespace provides classes that enable you to manage device connections.</summary>
+    <summary>The Microsoft.Azure.Devices.Client.Transport namespace provides classes that support managing device connections.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors.Remoting">
   <Docs>
-    <summary>The Microsoft.ServiceFabric.Actors.Remoting namespace provides a class that sets the default remoting provider to use for remoting the actor interfaces.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors.Remoting namespace provides a class that sets the default remoting provider to use.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

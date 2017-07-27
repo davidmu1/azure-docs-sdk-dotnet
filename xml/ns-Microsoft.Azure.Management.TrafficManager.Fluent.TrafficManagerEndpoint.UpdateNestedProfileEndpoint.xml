@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.TrafficManager.Fluent.TrafficManagerEndpoint.UpdateNestedProfileEndpoint">
   <Docs>
-    <summary>The Microsoft.Azure.Management.TrafficManager.Fluent.TrafficManagerEndpoint.UpdateNestedProfileEndpoint namespace provides an interface that supports an update to an nested profile endpoint when made through an update to a profile.</summary>
+    <summary>The Microsoft.Azure.Management.TrafficManager.Fluent.TrafficManagerEndpoint.UpdateNestedProfileEndpoint namespace provides an interface that supports updating a nested profile endpoint when a profile is updated.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

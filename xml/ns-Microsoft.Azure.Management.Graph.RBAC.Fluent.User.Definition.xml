@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Graph.RBAC.Fluent.User.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Graph.RBAC.Fluent.User.Definition namespace provides interfaces that enable you to define a user account in Active Directory.</summary>
+    <summary>The Microsoft.Azure.Management.Graph.RBAC.Fluent.User.Definition namespace provides interfaces that support defining a user account in Active Directory.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.HostNameSslBinding.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.AppService.Fluent.HostNameSslBinding.Definition namespace provides interfaces that enable you to define hostname SSL binding.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.HostNameSslBinding.Definition namespace provides interfaces that support defining hostname SSL binding.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

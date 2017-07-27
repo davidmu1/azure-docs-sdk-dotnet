@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceBus.Web">
   <Docs>
-    <summary>The Microsoft.ServiceBus.Web namespace provides a class that creates a message object from streaming content.</summary>
+    <summary>The Microsoft.ServiceBus.Web namespace provides a class that supports creating a message object from streaming content.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

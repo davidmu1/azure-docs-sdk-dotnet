@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.MediaServices.Client.Live">
   <Docs>
-    <summary>The Microsoft.WindowsAzure.MediaServices.Client.Live namespace enumerates CDN provider types.</summary>
+    <summary>The Microsoft.WindowsAzure.MediaServices.Client.Live namespace provides an enumeration of CDN provider types.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

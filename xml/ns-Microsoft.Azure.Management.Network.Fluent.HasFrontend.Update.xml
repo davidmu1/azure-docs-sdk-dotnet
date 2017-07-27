@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasFrontend.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.HasFrontend.Update namespace provides interfaces that enable you to update a front-end load balancer.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasFrontend.Update namespace provides interfaces that support updating a front-end load balancer.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

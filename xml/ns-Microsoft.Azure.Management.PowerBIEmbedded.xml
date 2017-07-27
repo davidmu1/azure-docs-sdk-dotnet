@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.PowerBIEmbedded">
   <Docs>
-    <summary>The Microsoft.Azure.Management.PowerBIEmbedded namespace provides classes and interfaces that enable you to create and use Power BI Embedded Workspace Collections.</summary>
+    <summary>The Microsoft.Azure.Management.PowerBIEmbedded namespace provides classes and interfaces that support creating and using Power BI Embedded Workspace collections.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

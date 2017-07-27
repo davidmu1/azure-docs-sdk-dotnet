@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.Storage.File.Protocol">
   <Docs>
-    <summary>The Microsoft.WindowsAzure.Storage.File.Protocol namespace provides classes and interfaces that support access to attributes of file service protocol layer types and helpers such as FileRequest and Response Parsers.</summary>
+    <summary>The Microsoft.WindowsAzure.Storage.File.Protocol namespace provides classes and interfaces that support access to attributes of layer types and helpers for the file service protocol.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

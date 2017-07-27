@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.WebSites">
   <Docs>
-    <summary>The Microsoft.Azure.Management.WebSites namespace provides classes and interfaces that enable you to create and use WebSites resources.</summary>
+    <summary>The Microsoft.Azure.Management.WebSites namespace provides classes and interfaces that support creating and using WebSites resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

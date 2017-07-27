@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Common">
   <Docs>
-    <summary>The Microsoft.Azure.Devices.Common namespace provides classes that enable you to manage dictionary access.</summary>
+    <summary>The Microsoft.Azure.Devices.Common namespace provides classes that support managing dictionary access.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

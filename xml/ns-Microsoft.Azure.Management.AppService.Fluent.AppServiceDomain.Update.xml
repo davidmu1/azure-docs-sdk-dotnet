@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.AppServiceDomain.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.AppService.Fluent.AppServiceDomain.Update namespace provides interfaces that enable you to update a domain.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.AppServiceDomain.Update namespace provides interfaces that support updating a domain.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

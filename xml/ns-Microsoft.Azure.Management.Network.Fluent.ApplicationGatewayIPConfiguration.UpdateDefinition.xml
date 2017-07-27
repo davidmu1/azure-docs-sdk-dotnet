@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayIPConfiguration.UpdateDefinition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayIPConfiguration.UpdateDefinition namespace provides interfaces that enable you to define an update to the IP configuration of an application gateway.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayIPConfiguration.UpdateDefinition namespace provides interfaces that support defining an update to the IP configuration of an application gateway.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

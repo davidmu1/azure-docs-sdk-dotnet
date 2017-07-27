@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Common.Security">
   <Docs>
-    <summary>The Microsoft.Azure.Devices.Common.Security namespace provides classes and interfaces that enable you to manage secure connections.</summary>
+    <summary>The Microsoft.Azure.Devices.Common.Security namespace provides classes and interfaces that support managing secure connections.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

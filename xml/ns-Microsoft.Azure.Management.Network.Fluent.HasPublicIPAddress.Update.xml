@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasPublicIPAddress.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.HasPublicIPAddress.Update namespace provides interfaces that enable you to update the association of a new or existing public IP address to a resource.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasPublicIPAddress.Update namespace provides interfaces that support updating the association of a new or existing public IP address to a resource.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

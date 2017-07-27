@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ApplicationInsights.Channel">
   <Docs>
-    <summary>The Microsoft.Application.Insights.Channel namespace provides classes and insterfaces that enable you to manage data telemetry.</summary>
+    <summary>The Microsoft.Application.Insights.Channel namespace provides classes and interfaces that support managing data telemetry.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

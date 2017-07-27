@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasPrivateIPAddress.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.HasPrivateIPAddress.Definition namespace provides an interface that enables you to define a private IP address.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasPrivateIPAddress.Definition namespace provides an interface that supports defining a private IP address.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

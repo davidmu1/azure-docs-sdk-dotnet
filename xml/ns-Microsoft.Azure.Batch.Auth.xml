@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Batch.Auth">
   <Docs>
-    <summary>Provides APIs for authenticating and authorizating requests to the Azure Batch service.</summary>
+    <summary>The Microsoft.Azure.Batch.Auth namespace provides classes that support authenticating and authorizating requests to the Azure Batch service.</summary>
     <remarks>None.</remarks>
   </Docs>
 </Namespace>

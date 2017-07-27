@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachine.DefinitionManaged">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachine.DefinitionManaged namespace provides interfaces that enable you to define a new virtual machine using managed disks.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachine.DefinitionManaged namespace provides interfaces that support defining a virtual machine using managed disks.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

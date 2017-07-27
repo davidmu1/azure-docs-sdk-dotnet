@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Models namespace provides classes and interfaces that provide access to attributes of resources and resource groups.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Models namespace provides classes and interfaces that support access to attributes of resources and resource groups.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

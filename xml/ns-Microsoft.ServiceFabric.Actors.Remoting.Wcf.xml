@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Actors.Remoting.Wcf">
   <Docs>
-    <summary>The Microsoft.ServiceFabric.Actors.Remoting.Wcf namespace provides a class that Sets WCF as the default remoting provider for actors.</summary>
+    <summary>The Microsoft.ServiceFabric.Actors.Remoting.Wcf namespace provides a class that sets Windows Communication Foundation as the default remoting provider for actors.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

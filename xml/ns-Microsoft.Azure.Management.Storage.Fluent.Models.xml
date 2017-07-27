@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Storage.Fluent.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Storage.Fluent.Models namespace provides classes that enable you to access attributes of storage accounts.</summary>
+    <summary>The Microsoft.Azure.Management.Storage.Fluent.Models namespace provides classes that support access to attributes of storage accounts.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ApplicationInsights">
   <Docs>
-    <summary>The Microsoft.ApplicationInsights namespace provides classes that enable you to initialize a telemetry client.</summary>
+    <summary>The Microsoft.ApplicationInsights namespace provides classes that support initializing a telemetry client.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

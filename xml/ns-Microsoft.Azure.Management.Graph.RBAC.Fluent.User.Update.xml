@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Graph.RBAC.Fluent.User.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Graph.RBAC.Fluent.User.Update namespace provides interfaces that enable you to update a user account in Active Directory.</summary>
+    <summary>The Microsoft.Azure.Management.Graph.RBAC.Fluent.User.Update namespace provides interfaces that support updating a user account in Active Directory.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

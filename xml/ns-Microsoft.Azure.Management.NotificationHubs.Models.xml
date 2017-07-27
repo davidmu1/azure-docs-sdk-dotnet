@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.NotificationHubs.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.NotificationHubs.Models namespace provides classes and interfaces that enable you to access attributes of a notification hub.</summary>
+    <summary>The Microsoft.Azure.Management.NotificationHubs.Models namespace provides classes and interfaces that support access to attributes of Notification Hubs resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasHostName.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.HasHostName.Definition namespace provides an interface that enables you to define a host name.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasHostName.Definition namespace provides an interface that supports defining a host name.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

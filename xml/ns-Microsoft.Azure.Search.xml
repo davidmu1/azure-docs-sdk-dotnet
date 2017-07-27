@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Search">
   <Docs>
-    <summary>The Microsoft.Azure.Search namespace provides classes and interfaces that enable you to create and use Azure Search resources.</summary>
+    <summary>The Microsoft.Azure.Search namespace provides classes and interfaces that support creating and using Search resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

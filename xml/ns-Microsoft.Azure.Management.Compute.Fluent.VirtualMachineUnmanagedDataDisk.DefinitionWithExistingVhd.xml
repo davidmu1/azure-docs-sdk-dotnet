@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineUnmanagedDataDisk.DefinitionWithExistingVhd">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineUnmanagedDataDisk.DefinitionWithExistingVhd namespace provides interfaces that enable you to define unmanaged data disks using an existing VHD for a virtual machine.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineUnmanagedDataDisk.DefinitionWithExistingVhd namespace provides interfaces that supports defining unmanaged data disks using an existing VHD for a virtual machine.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Cdn.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Cdn.Models namespace provides classes and interfaces that enable you to access attributes of CDN resources.</summary>
+    <summary>The Microsoft.Azure.Management.Cdn.Models namespace provides classes and interfaces that support access to attributes of CDN resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

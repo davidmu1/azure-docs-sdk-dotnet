@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Batch">
   <Docs>
-    <summary>Provides APIs for executing and managing Azure Batch workloads.</summary>
+    <summary>The Microsoft.Azure.Batch namespace provides classes and interfaces that support creating and using Batch resources.</summary>
     <remarks>None.</remarks>
   </Docs>
 </Namespace>

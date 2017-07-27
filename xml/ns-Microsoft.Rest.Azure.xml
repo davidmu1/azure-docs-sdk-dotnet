@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Rest.Azure">
   <Docs>
-    <summary>To be added.</summary>
+    <summary>The Microsoft.Rest.Azure namespace provides a class that supports defining extension methods for the CloudException class.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

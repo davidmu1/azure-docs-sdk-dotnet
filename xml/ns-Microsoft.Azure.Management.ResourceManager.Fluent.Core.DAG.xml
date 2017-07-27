@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Core.DAG">
   <Docs>
-    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core.DAG namespace provides classes and interfaces that define nodes and task groups.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Core.DAG namespace provides classes and interfaces that support defining nodes and task groups.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

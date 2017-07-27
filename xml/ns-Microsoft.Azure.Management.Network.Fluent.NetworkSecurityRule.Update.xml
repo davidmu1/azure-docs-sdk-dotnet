@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.NetworkSecurityRule.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.NetworkSecurityRule.Update namespace provides interfaces that enable you to update a network security rule.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.NetworkSecurityRule.Update namespace provides interfaces that support updating a network security rule.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

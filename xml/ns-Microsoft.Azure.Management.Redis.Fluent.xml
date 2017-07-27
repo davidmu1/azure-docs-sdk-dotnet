@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Redis.Fluent">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Redis.Fluent namespace provides classes and interfaces that enable you to create and use instances a cache.</summary>
+    <summary>The Microsoft.Azure.Management.Redis.Fluent namespace provides classes and interfaces that support creating and using Redis resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateTxtRecordSet">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateTxtRecordSet namespace provides interfaces that enable you to update a TXT record set.</summary>
+    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateTxtRecordSet namespace provides interfaces that support updating a TXT record set.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

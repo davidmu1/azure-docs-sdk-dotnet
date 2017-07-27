@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineCustomImage">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineCustomImage namespace provides interfaces that enable you to access an immutable client-side representation of a data disk image in an image resource.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineCustomImage namespace provides interfaces that supports access to an immutable client-side representation of a data disk image in an image resource.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

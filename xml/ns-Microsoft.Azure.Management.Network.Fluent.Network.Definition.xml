@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.Network.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.Network.Definition namespace provides interfaces that enable you to define a new virtual network.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.Network.Definition namespace provides interfaces that support defining a virtual network.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

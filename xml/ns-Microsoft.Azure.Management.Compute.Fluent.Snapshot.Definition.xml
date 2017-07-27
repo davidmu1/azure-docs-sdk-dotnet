@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.Snapshot.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.Snapshot.Definition namespace provides interfaces that enable you to define a managed snapshot.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.Snapshot.Definition namespace provides interfaces that support defining a managed snapshot.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

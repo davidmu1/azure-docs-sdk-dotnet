@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Batch.Protocol.Models">
   <Docs>
-    <summary>Contains types representing Azure Batch REST API operations and HTTP message bodies.</summary>
+    <summary>The Microsoft.Azure.Batch.Protocol.Models namespace provides classes that support access to attributes of Batch resources.</summary>
     <remarks>None.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Documents.Linq">
   <Docs>
-    <summary>The Microsoft.Azure.Documents.Linq namespace provides classes and interfaces that enable you to invoke user-defined functions as Linq queries.</summary>
+    <summary>The Microsoft.Azure.Documents.Linq namespace provides classes and interfaces that support invoking user-defined functions as Linq queries.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

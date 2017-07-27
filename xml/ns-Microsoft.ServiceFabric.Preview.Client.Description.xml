@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceFabric.Preview.Client.Description">
   <Docs>
-    <summary>The Microsoft.ServiceFabric.Preview.Client.Description namespace provides classes that supports the creation of Service Fabric clients.</summary>
+    <summary>The Microsoft.ServiceFabric.Preview.Client.Description namespace provides classes that support creating Service Fabric clients.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

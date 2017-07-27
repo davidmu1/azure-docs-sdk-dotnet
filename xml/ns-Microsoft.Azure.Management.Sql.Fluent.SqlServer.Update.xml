@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Fluent.SqlServer.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlServer.Update namespace provides interfaces that enable you to update instances of SQL Server.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlServer.Update namespace provides interfaces that support updating SQL servers.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

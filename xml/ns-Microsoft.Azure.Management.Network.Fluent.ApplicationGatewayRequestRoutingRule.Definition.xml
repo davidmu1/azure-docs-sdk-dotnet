@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayRequestRoutingRule.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayRequestRoutingRule.Definition namespace provides interfaces that enable you to define a routing rule for an application gateway.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayRequestRoutingRule.Definition namespace provides interfaces that support defining a routing rule for an application gateway.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

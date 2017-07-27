@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.DataLake.Store">
   <Docs>
-    <summary>The Microsoft.Azure.Management.DataLake.Store namespace provides classes and interfaces that enable you to create and use a Data Lake store.</summary>
+    <summary>The Microsoft.Azure.Management.DataLake.Store namespace provides classes and interfaces that support creating and using a Data Lake store.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

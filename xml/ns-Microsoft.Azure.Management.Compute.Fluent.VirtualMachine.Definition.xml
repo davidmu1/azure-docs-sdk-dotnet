@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachine.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachine.Definition namespace provides interfaces that enable you to define a new virtual machine.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachine.Definition namespace provides interfaces that support defining a virtual machine.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

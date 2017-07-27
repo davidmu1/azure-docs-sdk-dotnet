@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Batch.FileStaging">
   <Docs>
-    <summary>Provides APIs for file staging.</summary>
+    <summary>The Microsoft.Azure.Batch.FileStaging namespace provides classes and interfaces that support file staging.</summary>
     <remarks>None.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.Storage.Core">
   <Docs>
-    <summary>The Microsoft.WindowsAzure.Storage.Core namespace provides classes that defines general helper modules such as UriQueryBuilder, SasQueryBuilder, and special purpose stream wrappers.</summary>
+    <summary>The Microsoft.WindowsAzure.Storage.Core namespace provides classes that support defining general helper modules.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

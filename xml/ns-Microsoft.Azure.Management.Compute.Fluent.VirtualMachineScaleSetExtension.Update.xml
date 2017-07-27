@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetExtension.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetExtension.Update namespace provides interfaces that enable you to update virtual machine extension in a scale set.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineScaleSetExtension.Update namespace provides interfaces that support updating virtual machine extensions in a scale set.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

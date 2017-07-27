@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Mobile.Server.Cache">
   <Docs>
-    <summary>The Microsoft.Azure.Mobile.Server.Cache namespace provides classes and interfaces that enable you to access caching policies.</summary>
+    <summary>The Microsoft.Azure.Mobile.Server.Cache namespace provides classes and interfaces that support access to caching policies.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

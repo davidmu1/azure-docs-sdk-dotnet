@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.RecoveryServices.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.RecoveryServices.Models namespace provides classes that enable you to access attributes of Recovery Services resources.</summary>
+    <summary>The Microsoft.Azure.Management.RecoveryServices.Models namespace provides classes that support access to attributes of Recovery Services resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.RouteTable.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.RouteTable.Definition namespace provides interfaces that enable you to update a route table.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.RouteTable.Update namespace provides interfaces that support updating a route table.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

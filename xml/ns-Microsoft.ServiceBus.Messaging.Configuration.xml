@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceBus.Messaging.Configuration">
   <Docs>
-    <summary>The Microsoft.ServiceBus.Messaging.Configuration namespace provides classes that support access to message configuration.</summary>
+    <summary>The Microsoft.ServiceBus.Messaging.Configuration namespace provides classes that support access to message a configuration.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

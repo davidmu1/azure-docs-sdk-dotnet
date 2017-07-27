@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Fluent.SqlElasticPools.SqlElasticPoolsCreatable">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlElasticPools.SqlElasticPoolsCreatable namespace provides an interface that supports the creation of a SQL elastic pool.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlElasticPools.SqlElasticPoolsCreatable namespace provides an interface that supports creating a SQL elastic pool.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

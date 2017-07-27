@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.ResourceManager.Models namespace provides classes that enable you to access attributes of resources and resource groups.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Models namespace provides classes that support access to attributes of resources and resource groups.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

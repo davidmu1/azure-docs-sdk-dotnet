@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Documents">
   <Docs>
-    <summary>The Microsoft.Azure.Documents namespace provides classes and interfaces that enable you to define document resources.</summary>
+    <summary>The Microsoft.Azure.Documents namespace provides classes and interfaces that support defining document resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

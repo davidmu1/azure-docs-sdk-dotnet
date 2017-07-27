@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Dns.Fluent.DnsZone.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsZone.Update namespace provides interfaces that enable you to update DNS zones.</summary>
+    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsZone.Update namespace provides interfaces that support updating DNS zones.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

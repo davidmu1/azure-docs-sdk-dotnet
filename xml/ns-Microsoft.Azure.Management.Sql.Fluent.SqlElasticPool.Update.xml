@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Fluent.SqlElasticPool.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlElasticPool.Update namespace provides interfaces that enable you to update a SQL elastic pool.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlElasticPool.Update namespace provides interfaces that support updating a SQL elastic pool.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

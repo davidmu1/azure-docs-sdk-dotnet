@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasCookieBasedAffinity.UpdateDefinition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.HasCookieBasedAffinity.UpdateDefinition namespace provides interfaces that enable you to define the update to the status of cookie based affinity.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasCookieBasedAffinity.UpdateDefinition namespace provides interfaces that support defining the update to the status of cookie based affinity.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.BackupServices.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.BackupServices.Models namespace provides classes that enable you to access attributes of Backup Services resources.</summary>
+    <summary>The Microsoft.Azure.Management.BackupServices.Models namespace provides classes that support access to attributes of Backup Services resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

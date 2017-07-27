@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.LoadBalancerTcpProbe.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerTcpProbe namespace provides interfaces that enable you to define a TCP probe and attach it to a load balancer.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerTcpProbe namespace provides interfaces that support defining a TCP probe and attaching it to a load balancer.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

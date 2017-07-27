@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Batch.Common">
   <Docs>
-    <summary>Contains types used in both the Azure Batch object model and the Azure Batch REST API proxies.</summary>
+    <summary>The Microsoft.Azure.Batch.Common namespace provides classes that support types used in both the Azure Batch object model and the Azure Batch REST API proxies.</summary>
     <remarks>None.</remarks>
   </Docs>
 </Namespace>

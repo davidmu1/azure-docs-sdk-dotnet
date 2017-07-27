@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.ResourceManager.Fluent.Deployment.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Deployment.Update namespace provides interfaces that enable you to update a resource deployment.</summary>
+    <summary>The Microsoft.Azure.Management.ResourceManager.Fluent.Deployment.Update namespace provides interfaces that support updating a resource deployment.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Batch.Conventions.Files">
   <Docs>
-    <summary>The Microsoft.Azure.Batch.Conventions.Files namespace provides classes and interfaces for defining the output of Azure Batch jobs.</summary>
+    <summary>The Microsoft.Azure.Batch.Conventions.Files namespace provides classes and interfaces that support defining the output of Azure Batch jobs.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

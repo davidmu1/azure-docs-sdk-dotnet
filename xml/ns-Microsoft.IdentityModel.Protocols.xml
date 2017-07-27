@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.IdentityModel.Protocols">
   <Docs>
-    <summary>The Microsoft.IdentityModel.Protocols namespace provides classes that support access attribuutes of authentication protocol communication.</summary>
+    <summary>The Microsoft.IdentityModel.Protocols namespace provides classes that support access to attribuutes of authentication protocol communication.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

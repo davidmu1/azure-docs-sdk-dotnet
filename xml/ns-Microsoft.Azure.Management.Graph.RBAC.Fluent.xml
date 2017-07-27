@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Graph.RBAC.Fluent">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Graph.RBAC.Fluent namespace provides classes and interfaces that enable you to manage RBAC resources.</summary>
+    <summary>The Microsoft.Azure.Management.Graph.RBAC.Fluent namespace provides classes and interfaces that support managing RBAC resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

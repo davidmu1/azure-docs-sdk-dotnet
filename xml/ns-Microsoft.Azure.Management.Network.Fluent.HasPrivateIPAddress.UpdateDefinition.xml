@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasPrivateIPAddress.UpdateDefinition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.HasPrivateIPAddress.UpdateDefinition namespace provides an interface that enables you to define the update of a private IP address.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasPrivateIPAddress.UpdateDefinition namespace provides an interface that supports defining the update of a private IP address.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

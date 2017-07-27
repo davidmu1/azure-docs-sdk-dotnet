@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayBackendHttpConfiguration.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayBackendHttpConfiguration.Definition namespace provides interfaces that enable you to define the HTTP configuration for an application gateway backend.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayBackendHttpConfiguration.Definition namespace provides interfaces that support defining the HTTP configuration for an application gateway backend.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

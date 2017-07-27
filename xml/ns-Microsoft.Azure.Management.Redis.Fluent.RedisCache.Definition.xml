@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Redis.Fluent.RedisCache.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Redis.Fluent.RedisCache.Definition namespace provides interfaces that enable you to define a cache.</summary>
+    <summary>The Microsoft.Azure.Management.Redis.Fluent.RedisCache.Definition namespace provides interfaces that support defining a Redis cache.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

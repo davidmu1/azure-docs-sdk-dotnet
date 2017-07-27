@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Batch">
   <Docs>
-    <summary>The namespace provides classes and interfaces that enable you to create and use Batch resources.</summary>
+    <summary>The Microsoft.Azure.Management.Batch namespace provides classes and interfaces that support creating and using Batch resources.</summary>
     <remarks>None.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.ApplicationGatewaySslCertificate.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewaySslCertificate.Definition namespace provides interfaces that enable you to define an SSL certificate for an application gateway.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewaySslCertificate.Definition namespace provides interfaces that support defining an SSL certificate for an application gateway.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Cdn.Fluent.CdnProfile.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Cdn.Fluent.CdnProfile.Definition namespace provides interfaces that enable you to define a CDN profile endpoint.</summary>
+    <summary>The Microsoft.Azure.Management.Cdn.Fluent.CdnProfile.Definition namespace provides interfaces that support defining a CDN profile.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

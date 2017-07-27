@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.MobileServices">
   <Docs>
-    <summary>The Microsoft.WindowsAzure.MobileServices namespace provides classes and interfaces that support the creation and use of Mobile Services.</summary>
+    <summary>The Microsoft.WindowsAzure.MobileServices namespace provides classes and interfaces that support creating and using Mobile Services resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

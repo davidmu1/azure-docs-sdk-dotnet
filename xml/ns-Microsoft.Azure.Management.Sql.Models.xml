@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Sql.Models namespace provides classes that enable you to access attributes of SQL Server databases.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Models namespace provides classes that support access to attributes of SQL Server databases.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

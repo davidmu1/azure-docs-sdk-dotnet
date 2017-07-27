@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Graph.RBAC.Fluent.ServicePrincipal.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Graph.RBAC.Fluent.ServicePrincipal.Definition namespace provides interfaces that enable you to define a service principle.</summary>
+    <summary>The Microsoft.Azure.Management.Graph.RBAC.Fluent.ServicePrincipal.Definition namespace provides interfaces that support defining an Active Directory service principle.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.IotHub">
   <Docs>
-    <summary>The Microsoft.Azure.Management.IotHub namespace provides classes and interfaces that enable you to create and use an Iot Hub.</summary>
+    <summary>The Microsoft.Azure.Management.IotHub namespace provides classes and interfaces that support creating and using Iot Hub resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

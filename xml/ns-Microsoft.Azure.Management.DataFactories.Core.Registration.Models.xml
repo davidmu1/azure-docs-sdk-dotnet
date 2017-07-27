@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.DataFactories.Core.Registration.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.DataFactories.Core.Registration.Models namespace provides classes that enable you to access registration attributes of a data factory.</summary>
+    <summary>The Microsoft.Azure.Management.DataFactories.Core.Registration.Models namespace provides classes that support access to registration attributes of a data factory.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

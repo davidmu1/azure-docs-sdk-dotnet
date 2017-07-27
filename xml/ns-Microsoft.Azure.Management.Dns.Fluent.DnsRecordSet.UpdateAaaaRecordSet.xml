@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateAaaaRecordSet">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateAaaaRecordSet namespace provides interfaces that enable you to update the AAAA record set.</summary>
+    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateAaaaRecordSet namespace provides interfaces that support updating an AAAA record set.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

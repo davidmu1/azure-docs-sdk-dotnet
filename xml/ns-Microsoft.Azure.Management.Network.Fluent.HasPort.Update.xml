@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasPort.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.HasPort.Update namespace provides an interface that enables you to update a port number.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasPort.Update namespace provides an interface that supports updating a port number.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

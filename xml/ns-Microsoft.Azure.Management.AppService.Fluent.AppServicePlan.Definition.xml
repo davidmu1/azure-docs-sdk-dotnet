@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.AppServicePlan.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.AppService.Fluent.AppServicePlan.Definition provides interfaces that enable you to define a plan.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.AppServicePlan.Definition provides interfaces that support defining a plan.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Search.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Search.Models namespace provides classes and interfaces that support access to attributes of Azure Search resources.</summary>
+    <summary>The Microsoft.Azure.Search.Models namespace provides classes and interfaces that support access to attributes of Search resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

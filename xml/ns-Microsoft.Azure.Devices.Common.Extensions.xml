@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Common.Extensions">
   <Docs>
-    <summary>The Microsoft.Azure.Devices.Common.Extensions provides classes that enable you to define dictionary extensions.</summary>
+    <summary>The Microsoft.Azure.Devices.Common.Extensions namespace provides classes that support using dictionary extensions.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

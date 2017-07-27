@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.MediaServices.Client.DynamicEncryption">
   <Docs>
-    <summary>The Microsoft.WindowsAzure.MediaServices.Client.DynamicEncryption namespace provides classes and interfaces that support access of attributes of dynamic encryption.</summary>
+    <summary>The Microsoft.WindowsAzure.MediaServices.Client.DynamicEncryption namespace provides classes and interfaces that support access to attributes of dynamic encryption.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

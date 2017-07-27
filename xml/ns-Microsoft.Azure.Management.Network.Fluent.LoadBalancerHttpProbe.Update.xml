@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.LoadBalancerHttpProbe.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerHttpProbe.Update namespace provides interfaces that enable you to update a HTTP probe and attached to a load balancer.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.LoadBalancerHttpProbe.Update namespace provides interfaces that support updating a HTTP probe attached to a load balancer.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

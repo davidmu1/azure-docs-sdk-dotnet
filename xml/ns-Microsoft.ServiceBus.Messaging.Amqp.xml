@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.ServiceBus.Messaging.Amqp">
   <Docs>
-    <summary>The Microsoft.ServiceBus.Messaging.Amqp.Serialization namespace provides a class that represents the Advanced Message Queuing Protocol transport settings.</summary>
+    <summary>The Microsoft.ServiceBus.Messaging.Amqp namespace provides a class that represents the Advanced Message Queuing Protocol transport settings.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.DataFactories">
   <Docs>
-    <summary>The Microsoft.Azure.Management.DataFactories namespace provides classes and interfaces that enable you to create and use data factories.</summary>
+    <summary>The Microsoft.Azure.Management.DataFactories namespace provides classes and interfaces that support creating and using data factories.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

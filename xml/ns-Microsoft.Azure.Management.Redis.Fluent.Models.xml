@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Redis.Fluent.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Redis.Fluent.Models namespace provides classes that enable you to access attributes of a cache.</summary>
+    <summary>The Microsoft.Azure.Management.Redis.Fluent.Models namespace provides classes that support access to attributes of Redis resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

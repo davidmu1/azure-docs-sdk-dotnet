@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayListener.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayListener.Update namespace provides interfaces that enable you to update an HTTP Listener for an application gateway.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayListener.Update namespace provides interfaces that support updating an HTTP Listener for an application gateway.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.DataFactories.Core">
   <Docs>
-    <summary>The Microsoft.Azure.Management.DataFactories.Core namespace provides classes and interfaces that enable you to manage core aspects of a data factory.</summary>
+    <summary>The Microsoft.Azure.Management.DataFactories.Core namespace provides classes and interfaces that support managing core aspects of a data factory.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

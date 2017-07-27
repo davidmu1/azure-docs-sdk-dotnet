@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Documents.Client">
   <Docs>
-    <summary>The Microsoft.Azure.Documents.Client namespace provides classes and interfaces that enable you to create clients for the Azure DocumentDB service.</summary>
+    <summary>The Microsoft.Azure.Documents.Client namespace provides classes and interfaces that support creating clients for the Azure DocumentDB service.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

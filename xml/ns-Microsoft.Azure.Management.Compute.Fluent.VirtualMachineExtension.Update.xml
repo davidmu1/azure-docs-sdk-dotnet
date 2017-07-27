@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Compute.Fluent.VirtualMachineExtension.Update">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineExtension.Update namespace provides interfaces that enable you to update a virtual machine extension.</summary>
+    <summary>The Microsoft.Azure.Management.Compute.Fluent.VirtualMachineExtension.Update namespace provides interfaces that support updating a virtual machine extension.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

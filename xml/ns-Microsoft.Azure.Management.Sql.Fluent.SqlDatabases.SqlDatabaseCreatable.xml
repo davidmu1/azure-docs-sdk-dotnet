@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Fluent.SqlDatabases.SqlDatabaseCreatable">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlDatabases.SqlDatabaseCreatable namespace provides an interface that supports the creation of a SQL database.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlDatabases.SqlDatabaseCreatable namespace provides an interface that supports creating a SQL database.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

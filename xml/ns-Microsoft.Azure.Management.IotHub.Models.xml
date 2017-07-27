@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.IotHub.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.IotHub.Models namespace provides classes that enable you to access attributes of an Iot Hub.</summary>
+    <summary>The Microsoft.Azure.Management.IotHub.Models namespace provides classes that support access to attributes of Iot Hub resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

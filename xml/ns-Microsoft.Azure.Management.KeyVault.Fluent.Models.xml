@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.KeyVault.Fluent.Models">
   <Docs>
-    <summary>The Microsoft.Azure.Management.KeyVault.Fluent.Models namespace provides classes that enable you to access attributes of a key vault.</summary>
+    <summary>The Microsoft.Azure.Management.KeyVault.Fluent.Models namespace provides classes that support access to attributes of a key vault.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

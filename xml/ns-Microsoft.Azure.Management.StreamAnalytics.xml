@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.StreamAnalytics">
   <Docs>
-    <summary>The Microsoft.Azure.Management.StreamAnalytics namespace provides classes and interfaces that enable you to create and monitor jobs.</summary>
+    <summary>The Microsoft.Azure.Management.StreamAnalytics namespace provides classes and interfaces that support creating and monitoring jobs.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

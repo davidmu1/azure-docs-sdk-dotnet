@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Batch.Protocol.BatchRequests">
   <Docs>
-    <summary>Contains types which implement IBatchRequest that represent a single REST request to the Batch service.</summary>
+    <summary>The Microsoft.Azure.Batch.Protocol.BatchRequests namespace provides classes that define the types which implement IBatchRequest.</summary>
     <remarks>None.</remarks>
   </Docs>
 </Namespace>

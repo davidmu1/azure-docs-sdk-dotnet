@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.ServiceBus">
   <Docs>
-    <summary>The Microsoft.Azure.ServiceBus namespace provides classes, structs, and interfaces that enable you to create and use Service Bus resources.</summary>
+    <summary>The Microsoft.Azure.ServiceBus namespace provides classes, structs, and interfaces that support creating and using Service Bus resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

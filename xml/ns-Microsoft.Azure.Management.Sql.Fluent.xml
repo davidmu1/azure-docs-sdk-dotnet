@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Fluent">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Sql.Fluent namespace provides classes and interfaces that enable you to perform operations on SQL Server databases.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Fluent namespace provides classes and interfaces that support performing operations on SQL Server databases.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

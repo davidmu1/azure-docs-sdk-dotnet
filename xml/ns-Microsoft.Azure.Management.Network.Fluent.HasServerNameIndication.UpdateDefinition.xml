@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasServerNameIndication.UpdateDefinition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.HasServerNameIndication.UpdateDefinition namespace provides an interface that enables you to define the update of whether server name indication (SNI) is required.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasServerNameIndication.UpdateDefinition namespace provides an interface that aupports defining the update of whether server name indication (SNI) is required.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

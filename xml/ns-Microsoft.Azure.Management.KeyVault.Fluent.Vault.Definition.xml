@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.KeyVault.Fluent.Vault.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.KeyVault.Fluent.Vault.Definition namespace provides interfaces that enable you to define a key vault.</summary>
+    <summary>The Microsoft.Azure.Management.KeyVault.Fluent.Vault.Definition namespace provides interfaces that support defining a key vault.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

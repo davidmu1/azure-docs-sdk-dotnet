@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.ServiceBus.Amqp">
   <Docs>
-    <summary>The Microsoft.Azure.ServiceBus.Amqp namespace provides classes and that support Advanced Message Queuing Protocol (AMQP).</summary>
+    <summary>The Microsoft.Azure.ServiceBus.Amqp namespace provides classes that support using the Advanced Message Queuing Protocol (AMQP).</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

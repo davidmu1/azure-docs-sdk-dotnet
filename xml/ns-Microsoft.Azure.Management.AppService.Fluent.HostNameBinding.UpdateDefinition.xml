@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.AppService.Fluent.HostNameBinding.UpdateDefinition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.AppService.Fluent.HostNameBinding.UpdateDefinition namespace provides interfaces that enable you to update hostname bindings.</summary>
+    <summary>The Microsoft.Azure.Management.AppService.Fluent.HostNameBinding.UpdateDefinition namespace provides interfaces that support defining the update hostname bindings.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

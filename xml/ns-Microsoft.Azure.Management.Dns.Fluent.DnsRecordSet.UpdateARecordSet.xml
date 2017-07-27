@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateARecordSet">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateARecordSet namespace provides interfaces that enable you to update the A record set.</summary>
+    <summary>The Microsoft.Azure.Management.Dns.Fluent.DnsRecordSet.UpdateARecordSet namespace provides interfaces that support updating an A record set.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

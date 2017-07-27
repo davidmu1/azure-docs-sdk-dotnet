@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.KeyVault.Fluent">
   <Docs>
-    <summary>The Microsoft.Azure.Management.KeyVault.Fluent namespace provides classes that enable you to create and use a key vault.</summary>
+    <summary>The Microsoft.Azure.Management.KeyVault.Fluent namespace provides classes that support creating and using Key Vault resources.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

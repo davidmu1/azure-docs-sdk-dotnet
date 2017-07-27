@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.HasBackendPort.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.HasBackendPort.Definition namespace provides interfaces that enable you to define a port for a back-end load balancer.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.HasBackendPort.Definition namespace provides interfaces that support defining a port for a back-end load balancer.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

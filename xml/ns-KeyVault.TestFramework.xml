@@ -1,6 +1,6 @@
 <Namespace Name="KeyVault.TestFramework">
   <Docs>
-    <summary>The KeyVault.TestFramework namespace provides classes that enable you to test your key vault configuration.</summary>
+    <summary>The KeyVault.TestFramework namespace provides classes that support testing of a key vault configuration.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

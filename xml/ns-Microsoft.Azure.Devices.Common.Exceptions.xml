@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Devices.Common.Exceptions">
   <Docs>
-    <summary>The Microsoft.Azure.Devices.Common.Exceptions namespace provides classes for the definition of device exceptions.</summary>
+    <summary>The Microsoft.Azure.Devices.Common.Exceptions namespace provides classes that define device exceptions.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

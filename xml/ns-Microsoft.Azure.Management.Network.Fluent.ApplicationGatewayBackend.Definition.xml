@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayBackend.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayBackend.Definition namespace provides interfaces that enable you to define an application gateway backend.</summary>
+    <summary>The Microsoft.Azure.Management.Network.Fluent.ApplicationGatewayBackend.Definition namespace provides interfaces that support defining an application gateway backend.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

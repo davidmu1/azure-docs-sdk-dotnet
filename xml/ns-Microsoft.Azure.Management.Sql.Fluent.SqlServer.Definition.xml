@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.Azure.Management.Sql.Fluent.SqlServer.Definition">
   <Docs>
-    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlServer.Definition namespace provides interfaces that enable you to define instances of SQL Server.</summary>
+    <summary>The Microsoft.Azure.Management.Sql.Fluent.SqlServer.Definition namespace provides interfaces that support defining a SQL server.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>

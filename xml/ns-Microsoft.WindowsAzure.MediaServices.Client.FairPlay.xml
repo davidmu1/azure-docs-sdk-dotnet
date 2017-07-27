@@ -1,6 +1,6 @@
 <Namespace Name="Microsoft.WindowsAzure.MediaServices.Client.FairPlay">
   <Docs>
-    <summary>The Microsoft.WindowsAzure.MediaServices.Client.FairPlay namespace provides a class that supports access of attributes of a fair play configuration.</summary>
+    <summary>The Microsoft.WindowsAzure.MediaServices.Client.FairPlay namespace provides a class that supports access to attributes of a FairPlay configuration.</summary>
     <remarks>To be added.</remarks>
   </Docs>
 </Namespace>
